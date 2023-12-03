@@ -1,4 +1,4 @@
 function Home() {
-  return <div>Welcome to Next.js!</div>
+  return <div>Oi. Tudo bem??Te amo</div>
 }
 export default Home;
